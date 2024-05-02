@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Proposal.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+The style file: ieee_fullname.bst
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+Database file #1: egbib.bib
+Warning--to sort, need author or key in Imagenet01
+You've used 24 entries,
+            2120 wiz_defined-function locations,
+            622 strings with 7405 characters,
+and the built_in function-call counts, 6037 in all, are:
+= -- 499
+> -- 381
+< -- 0
++ -- 153
+- -- 126
+* -- 315
+:= -- 998
+add.period$ -- 49
+call.type$ -- 24
+change.case$ -- 131
+chr.to.int$ -- 0
+cite$ -- 25
+duplicate$ -- 168
+empty$ -- 530
+format.name$ -- 126
+if$ -- 1262
+int.to.chr$ -- 0
+int.to.str$ -- 24
+missing$ -- 0
+newline$ -- 100
+num.names$ -- 46
+pop$ -- 268
+preamble$ -- 1
+purify$ -- 111
+quote$ -- 0
+skip$ -- 192
+stack$ -- 0
+substring$ -- 123
+swap$ -- 24
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 96
+warning$ -- 1
+while$ -- 46
+width$ -- 26
+write$ -- 192
+(There was 1 warning)

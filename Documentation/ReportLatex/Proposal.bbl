@@ -1,0 +1,124 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{Imagenet01}
+Peer hub image-net, 2018.
+\newblock Face and Gesture submission ID 324.
+  {https://doi.org/10.55461/PHIN01152018}.
+
+\bibitem{ref01}
+E. Anello.
+\newblock
+  {https://towardsdatascience.com/a-comprehensive-guide-to-image-augmentation-using-pytorch-fb162f2444be}.
+
+\bibitem{ref03}
+S. Chilamkurthy.
+\newblock
+  {https://pytorch.org/tutorials/beginner/transfe$\_$learning$\_$tutorial.html}.
+
+\bibitem{Dohler01}
+M. Döhler, F. Hille, L. Mevel, and W. Rückeri.
+\newblock Structural health monitoring with statistical methods during
+  progressive damage test of s101 bridge, 2014.
+
+\bibitem{Elasha01}
+F. Elasha, M. Greaves, and D. Mba.
+\newblock Planetary bearing defect detection in a commercial helicopter main
+  gearbox with vibration and acoustic emission, 2018.
+
+\bibitem{Gao01}
+Y. Gao and K.M. Mosalam.
+\newblock Deep transfer learning for image-based structural damage recognition,
+  2018.
+
+\bibitem{Gao02}
+Y. Gao and K.M. Mosalam.
+\newblock Peer hub imagenet (phi-net): A large-scale multi-attribute benchmark
+  dataset of structural images, 2019.
+\newblock PEER Report No.2019-07, Pacific Earthquake Engineering Research
+  Center, University of California, Berkeley, CA.
+
+\bibitem{Gao03}
+Y. Gao and K.M. Mosalam.
+\newblock Peer hub imagenet: A large-scale multiattribute benchmark data set of
+  structural images, 2020.
+
+\bibitem{Garcia01}
+D. García and D. Tcherniak.
+\newblock An experimental study on the data-driven structural health monitoring
+  of large wind turbine blades using a single accelerometer and actuator, 2019.
+
+\bibitem{Gupta01}
+A. Gupta, R. Ramanath, J. Shi, and S.~S. Keerthi.
+\newblock Adam vs. sgd: Closing the generalization gap on image classification,
+  2021.
+
+\bibitem{He01}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition, 2015.
+
+\bibitem{Iannelli01}
+P. Iannelli, F. Angeletti, P. Gasbarri, M. Panella, and A. Rosato.
+\newblock Deep learning-based structural health monitoring for damage detection
+  on a large space antenna, 2022.
+
+\bibitem{Ksica01}
+F. Ksica, Z. Hadas, and J. Hlinka.
+\newblock Integration and test of piezocomposite sensors for structure health
+  monitoring in aerospace, 2019.
+
+\bibitem{repo01}
+G. Prasad.
+\newblock
+  https://github.com/gokulprasadthekkel/pytorch-multi-class-focal-loss/blob/master/focal$\_$loss.py.
+
+\bibitem{Rashid01}
+K.~M. Rashid and J. Louis.
+\newblock Times-series data augmentation and deep learning for construction
+  equipment activity recognition, 2019.
+
+\bibitem{Seventekidis01}
+P. Seventekidis, D. Giagopoulos, A. Arailopoulos, and O. Markogiannak.
+\newblock Structural health monitoring using deep learning with optimal finite
+  element model generated data, 2020.
+
+\bibitem{ref02}
+P. Sharma.
+\newblock
+  {https://www.analyticsvidhya.com/blog/2019/12/image-augmentation-deep-learning-pytorch/}.
+
+\bibitem{Shorten01}
+C. Shorten and T.~M. Khoshgoftaar.
+\newblock A survey on image data augmentation for deep learning, 2019.
+
+\bibitem{Tcherniak01}
+D. Tcherniak and L.~L. Mølgaard.
+\newblock Active vibration-based structural health monitoring system for wind
+  turbine blade: Demonstration on an operating vestas v27 wind turbine, 2017.
+
+\bibitem{Tome01}
+E.~S. Tomé, M. Pimentel, and J. Figueiras.
+\newblock Damage detection under environmental and operational effects using
+  cointegration analysis - application to experimental data from a cable-stayed
+  bridge, 2020.
+
+\bibitem{Wickramasinghe01}
+W.~R. Wickramasinghe, D.~P. Thambiratnam, T.~H.~T. Chan, and T. Nguyen.
+\newblock Vibration characteristics and damage detection in a suspension
+  bridge, 2016.
+
+\bibitem{Yapar01}
+O. Yapar, P.~Volgyesi P.~K.~Basu, and A. Ledeczi.
+\newblock Structural health monitoring of bridges with piezoelectric ae
+  sensors, 2015.
+
+\bibitem{Yu01}
+Y. Yu, C. Wang, X. Gu, and J. Li.
+\newblock A novel deep learning-based method for damage identification of smart
+  building structures, 2019.
+
+\bibitem{Zhao01}
+R. Zhao, Z.~Chen R.~Yan, P.~Wang K.~Mao, and R.~X. Gao.
+\newblock Deep learning and its applications to machine health monitoring,
+  2019.
+
+\end{thebibliography}
