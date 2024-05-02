@@ -1,0 +1,5 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'egbib.blg'
+[154] biber-MSWIN64:340> INFO - === 
+[524] Utils.pm:410> ERROR - Cannot find 'egbib.bcf'!
+[525] Biber.pm:135> INFO - ERRORS: 1
